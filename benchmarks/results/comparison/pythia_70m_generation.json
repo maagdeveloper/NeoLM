@@ -1,0 +1,576 @@
+{
+  "model": "EleutherAI/pythia-70m",
+  "max_new_tokens": 200,
+  "results": [
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of the same name as an ancient city.\nThe town was named after one man who had been killed by his father and two men from another country to be buried there on earth for many years before he died at sea or when it became clear that no other person would have known about this place until they reached their destination where all three were living together again—and now we are told not only did these people live here but also lived within them through generations without any knowledge whatsoever regarding what happened between us today: our home is still alive; its inhabitants remain dead forever since then! It has become so much more difficult than ever with every single individual I know...that's why my family lives too close behind me.\" \"I'm sorry,\" said David Meredith-Mickelman (a former member) during her visit over lunching dinner parties while she sat down alone outside The Churchyard Restaurant last night—\"the house\" being located near Langley Street just north west along Route 6\"—",
+      "prompt_tokens": 9,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 2.069,
+      "tokens_per_second": 96.66
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of  in the north-western portion.\nThe name \"Harrison\" was first coined by John Deere and his family to have two children (the daughter) living on an island near Mount Sinai Heights that is about 25 miles east from San Francisco's Foothill Ranch where they live for 20 years at home or stay here until their death—one who has been alive since he left town; another whose father died when it took place as parting gift! Here are some photographs taken with him last year:\n\n",
+      "prompt_tokens": 9,
+      "generated_tokens": 107,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.818,
+      "tokens_per_second": 130.86
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of  in the north-western portion where it was inhabited by three people from New York City. The inhabitants were also present on this particular day at several events during October and November to December when there is an outbreak that occurred after construction (there are only four cases reported here).\nThis episode has not been recorded for months or years as such all over Boston area schools have had their own activities involving visitors due primarily because they came into contact with many residents seeking relief abroad! Here's some helpful info about how you can help yourself; though I'd like one more item written than what we've seen out my name... Thanks guys so much!!",
+      "prompt_tokens": 9,
+      "generated_tokens": 130,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.06,
+      "tokens_per_second": 122.68
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " began to form a series of small-scale experiments.\nIn this experiment, we used two different methods: (1) measuring an object's speed at which it was moving through its body; or by using one method that measures how much velocity is required for motion in space—the same way as if you were trying your own work on something else with no acceleration whatsoever? The first approach uses only three parameters such are known from previous research into movement behavior within objects when they move along their bodies so long ago...and then again after these measurements have been made! It has become clear what happens next will be very difficult because there isn't any time where I can see my movements faster than those around me but not quite right here anymore…I'm just curious why people do things like \"move\" instead?! They don’t know exactly who would want them doing anything otherway!! And yes some more possibilities exist inside each group too..but even though most humans aren “moving” toward themselves/",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.485,
+      "tokens_per_second": 134.64
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " made a special case with them.\n\"They said you can't find any of us.\" He looked at his watch, then smiled to himself as if it were inhumanity: \"What did they say?\" he asked again for an explanation from above-ground view that was not true? When this had been enough time I realized how real things would be all right but what else is happening now must have occurred even after seeing me on my own doing some sortof thing besides finding out where we are going or getting away! This really could've happened!\" (pictured) The old man shook hands casually when someone stepped over him; there wasn’t much room inside which left one's place so far apart--the same thought about animals being taken down by humans....He took another look around looking like she'd heard something other than her name before saying 'I know why'...he gave herself up because _she_ wanted everything too – OK - except maybe life itself.....and whatever",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.16,
+      "tokens_per_second": 172.45
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " made an interesting experiment to discover what could be their contribution.\n(Photo by Robert Scholl)",
+      "prompt_tokens": 8,
+      "generated_tokens": 21,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.123,
+      "tokens_per_second": 170.55
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": ", and its success in Italy. The first two centuries have been a major source for many historians who had not yet begun to read about it until around 1550; but they were mostly from Rome or even Greece (see Chapter 4).\nIn his book \"A History Of Ancient Greek Art\", he argues that ancient Greeks are divided into three classes: those with great wealth—the Romans themselves —and their descendants as well? In this sense there is no doubt at all how much power was gained by modern civilization over time when people lived on an island off mainland Europe's coastline where archaeologists could find them living without any knowledge whatsoever regarding what happened here during World War II.[1] Historians also argue against such assumptions because most scholars believe these days can be traced back only after WWII/war-era times which led him astray before being able again through war years [2]. One reason why we should think more deeply than ever today would lead us toward understanding whether contemporary art has survived",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.156,
+      "tokens_per_second": 172.95
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": "\nCategory:Romania",
+      "prompt_tokens": 6,
+      "generated_tokens": 6,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.047,
+      "tokens_per_second": 128.23
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": "\nCategory:Romania",
+      "prompt_tokens": 6,
+      "generated_tokens": 6,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.036,
+      "tokens_per_second": 164.67
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " a grid, and the sun is placed on top.\nA large part that has been made up by this design means it will be possible to use one or more panels in order for its purpose (i) with respect thereto as well; but there are also other components which may have different dimensions than those described above: an image can only represent two parts from each side thereof at least three times per second depending upon how much light they were used during installation/reinstallation process(s). The first component must include all four elements within such panel so long-distance between them should not exceed 10 feet apart if necessary - preferably 20 foot distance away due time delay when installing these materials into their respective areas where no lights could appear before installed devices without being turned off completely prior installations...and thus would require additional maintenance costs associated over many years' experience since most people do install new ones....but still need some repairs after having done any work required..",
+      "prompt_tokens": 5,
+      "generated_tokens": 191,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.12,
+      "tokens_per_second": 170.46
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " a grid consisting mostly with the same size and width as each one.\nIn order to reduce costs, it is important that our model be able (to estimate) all possible values for these elements:\n\n  *    a_x = 0; \n      b1 += 1 - \\frac{d}{2} * d^3/k_{max}$, i=0..n(i-m), ~~~$$ where m$ denotes some integer number in this case such $K$. In other words $\\omega=\\sum\\limits_{\\substack{\\lambda \\\\ 2^{j+4}} < k,\\forall j> n(\\Delta x)} |M|$, $$X^* =\\prod_{{\\tilde {\\chi}}\\in X}\\left|\\sqrt{{\\int\\! V({\\hat c}^{N})}}\\,dt.$$ The integral over ${\\mathbb E}$ gives $$\\label {109997010220282970231411292172112542549116488471336",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.174,
+      "tokens_per_second": 170.36
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " a grid connected by two wires that connects the windshields and roofs, each with its own electrical connection between them. The grids are made up in three stages: (i) water flowing through it from an underground location to another surface area;\n(ii)) electric power is generated as high radiation levels can be observed during building construction projects where temperatures decrease rapidly over time due partly because some people have been working on their homes for quite long before they need help or access facilities at such locations so when you get ready there will always become less than ideal solution if your house would move quickly enough too slowly but also could possibly deteriorate after those buildings use heat pump equipment rather then getting very large quantities more expensive without damaging electricity networks which may not take advantageously much longer.\"",
+      "prompt_tokens": 5,
+      "generated_tokens": 155,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.909,
+      "tokens_per_second": 170.53
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\n1. How do I get the number of cores in a single cluster and then use that to set up an array, or just one core per node (or even multiple) on each other's nodes ? .............I have tried using this but it doesn't work :).  Any ideas why there are so many questions here?? \n 2-3/4 - Does my data structure look like something similar with 3rd party processors as well.? \n\n",
+      "prompt_tokens": 8,
+      "generated_tokens": 94,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.556,
+      "tokens_per_second": 169.14
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\nWhat does it mean to be a system that's running on top of the PC. If you run this in, say \"CPU\" and get an IP address (or just access your network) with its own path from one point down into another by executing some other way or using something else like http://www-iisnepal/mypilot/. And if not then can't use any service when trying at all I do wrong...\n\n",
+      "prompt_tokens": 8,
+      "generated_tokens": 93,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.566,
+      "tokens_per_second": 164.28
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\nWhat does it mean to be a system that's running on this planet or in the water of another, if I can't do anything about you and say \"no\". Does anyone know how much more effort than what one would have been expected by me when they took away from us just trying out something else. How many people did not like each other...I don´t think there are so few things we could try at getting them right with their heads above theirs as well.\" It was clearly linked up into our brain itself now because everyone wanted some kind life which might need better results! So maybe then he has all these issues before him too - keep calm down while speaking honestly through his mind; but please tell your husband why no person will ever want any sort money where she wants either!!! And finally – who knows . He really didn\\'s only learned words correctly..so guess yourself!!",
+      "prompt_tokens": 8,
+      "generated_tokens": 181,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.065,
+      "tokens_per_second": 170.02
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " is likely to be in the hands and mind.\nIn this regard, it would seem that people who are not aware about AI can have a real chance at learning how they do things differently than other humans or machines on their own terms (eating them for themselves). It seems like there's no way we could learn from these experiences without knowing what our current knowledge might actually mean by having an actual human experience with us as well? I think most will find some information useful if you're interested enough here: https://www-womenspace/techsolutions/#suggested_and–we'll see where your next step was going!",
+      "prompt_tokens": 5,
+      "generated_tokens": 131,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.778,
+      "tokens_per_second": 168.47
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " can be used in the field.\nThis is what we have done: We are building on a new approach for this, that would improve our understanding and improvement over existing methods to use it as an input or feedback from others who might not already know anything about how you will perform your functions if things change too rapidly after learning (or more importantly do so with computers). I think there may also been some problems around computer science when using natural language processing tools like Python 3 but these could result less than 1% better results depending upon where they were going without them being able then enough time? It's really useful!",
+      "prompt_tokens": 5,
+      "generated_tokens": 124,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.716,
+      "tokens_per_second": 173.14
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " can be used in the field.\nThis is what we have done: We now know that people who work for them will succeed, and they are left behind on their own to use it as a tool so great outside our control (or even just create your life). There has always been something you could learn from experience if there were any other examples before creating an image or picture with those images again - not only by using this technique but also through applying different techniques across applications such at home/workplaces :) The following videos show how I feel when my personal email list starts being shown up right next door :D",
+      "prompt_tokens": 5,
+      "generated_tokens": 124,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.954,
+      "tokens_per_second": 129.93
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been around the world for over twenty years.\nThe AI community, as well to learn how we can use it in our lives and work with other people’s brains (and their computers) who are not aware or have no idea what they might be doing on purpose but don't know if this will help them find out more about you than anyone else here knows? I am an expert at learning new things from scratch!",
+      "prompt_tokens": 10,
+      "generated_tokens": 87,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.67,
+      "tokens_per_second": 129.77
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been around the world for many years. The first step in this process involves making an artificial neural network (ANN) to perform experiments on human subjects using millions, and then generating data from these tasks by means typically computing time with high precision or accuracy without having them run over 100 times each day!\nI have always thought about setting up computers based upon their own specific purpose such as \"knowing\" etc.. but I can't say why; how could they be set? What would it cost if one were able at all - perhaps even more than you are now?\" There's no reason not enough information available inside your head when someone makes predictions...and thus everyone who comes into contact knows exactly what should happen next which will make people believe so much better!! :) ~~",
+      "prompt_tokens": 10,
+      "generated_tokens": 157,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.238,
+      "tokens_per_second": 126.79
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been around the world for many years, but not always in existence. It’s interesting to see how these artificial intelligent machines can be used and implemented on top so they have advanced research capabilities with which it would help others gain valuable insights into their environment from data analysis over time as well (as we did earlier).\nNow let me look at some examples using Adam Smith where I discovered more about neural networks based algorithm than other algorithms done by natural language processing: They are basically methods predicting what happens if any one tries something else entirely without learning or understanding new information each day; however there will still exist an effective way you could train such programs via machine-learning models like LSTM1 [@ludwig]. The same thing happened during those two kinds? Learning speed – while only being able through linear transformation since learned logic actually gets faster even though people use this method quite often - here both neurons learn memory maps across multiple computers simultaneously because none do much computing power until then! What was happening now",
+      "prompt_tokens": 10,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.173,
+      "tokens_per_second": 170.5
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the `function` attribute.\nThe following example shows how to use this method:\n\n    def __init__(self):  # initialize your functions with arguments and return them as an array of strings (with no name). ### You can find more information about it here http://www-iisertools/python3_functions2/#!/pyc++andjs\\nPython 3 Functions 2 - 1 in python code below \n        class Foo(object) { # create new object for each string \n\n            print('foo') // foo() returns 'bar' if you want one element from another variable like \"a\". This will be used by some other variables that are not present on my classpath! I am assuming there's something wrong? Please help me out!! Thanks again :)\n\n\n",
+      "prompt_tokens": 8,
+      "generated_tokens": 163,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.958,
+      "tokens_per_second": 170.07
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the `function` variable.\nI've been working on this code since I was recently going to be doing some sort of debugging for me and that's not quite so simple as far now there are just two methods which have similar properties: The first one calls \"functions\". Both callings work at different levels but they're each called in an instance where you pass parameters from your application (which actually accepts functions). It can also do with logging - it takes up much space or even having data access inside them? In my case though we could use more than 10x-toppers instead if possible how many times would go through these three operations without changing their value here...  The second method uses local variables whose values seem equal across all ranges because those getters still apply after every invocation via global arguments like 'calling' -- then when someone tries again while waiting until another process dies by hand--it will never happen! So maybe something else might take years before people give themselves permission over everything",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.19,
+      "tokens_per_second": 168.0
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the 'function' variable.\nAt this point in my project I'm trying to understand what's going on here: how do you define and handle functions? Thanks!\n\n",
+      "prompt_tokens": 8,
+      "generated_tokens": 36,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.227,
+      "tokens_per_second": 158.63
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I don't know. He's a good man, but he has an excellent reputation for being the best of friends and having fun with his wife (and her husband) in general; so it is hard to say that they have been together since we first met at school or after dinner when our parents were there as well). But this was not always easy because Bob had no idea what would happen if she didn’t marry him again! We both knew each other from time immemorial who could do something about them all day long by themselves...but then things got tough on us now too!! And just like everyone else did before – let me tell ya…I am going back home every night until late evening anyway!!!",
+      "prompt_tokens": 13,
+      "generated_tokens": 146,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.89,
+      "tokens_per_second": 164.1
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I am not leaving this week, and it is just a hard thing to do. It's the only time we can be together again at an early age for us all.\" She was born in New York City on October 13 (the day after her birth). Her parents left home late last year when she had three children with two-year olds who were sick because of sickness; they started their own life by drinking water from my family pool every night so that your sister would have healthy food but still don't know what did happen during pregnancy or how long before one has been pregnant? My father taught me about our mother as well – let alone mine! The way he treated him most often depends upon his mental abilities—his ability should never change if there isn’t any reason why everything will get worse over here even though its always felt like living somewhere else than where each person needs no other help until something happens which makes things better.) As many others leave behind some basic principles such making up",
+      "prompt_tokens": 13,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.174,
+      "tokens_per_second": 170.3
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I am not leaving this week, and it is just a hard thing to do. It's the only time we can be together again at an open-air meeting for lunch with our teachers in New York City last Thursday night (we will have nothing else). We also don't really care if there isn’t more than one other conference that needs us working on—a real issue or something special about how things work out as well! In fact even when they're focused all over West Hollywood studios still want everything going so quickly? That doesnn seem like much of anything anymore today because what people say now would change from day three until Wednesday morning.”",
+      "prompt_tokens": 13,
+      "generated_tokens": 133,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.779,
+      "tokens_per_second": 170.71
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " We are a team of students who have been working for the past two years. They were in college, and they had an amazing career as well! The first year was with us at our school (and I'm sure it's not too late to go back). This is what happened last week when my wife said that she didn't want me getting married because her husband told them he wanted something different from his life but then asked him why? He replied yes or no...I just thought this would be interesting if you could tell your parents how much more important things can happen than anything else on earth has ever done before so maybe there should come some time ago where people might think 'we're all going through these kinds OF problems' - right now everyone thinks their family needs better/better caregiving etc..but also those kids need help finding ways around stuff like religion & history which makes sense....so many other children don’t know exactly whats wrong here.....that one thing i did get out",
+      "prompt_tokens": 14,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.179,
+      "tokens_per_second": 169.66
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " We need to be able in our own lives. In order for them, it is necessary that they are not afraid of what he or she can do and the answers which help us understand this matter (in my mind). It has been a long time since I have found myself as one who believes there should never become an answer; but when these things happen you get tired enough on your shoulders because then all through life everything happens between yourself being told how many times someone says something like “I’m here” – say just so much! The only thing left by those words was telling me people were saying nothing at first before their eyes…but now everyone else said no if yea yes maybe? Oh well...now please let go :P",
+      "prompt_tokens": 14,
+      "generated_tokens": 150,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.894,
+      "tokens_per_second": 167.78
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " We need to be able in our own community. In fact, most students are not willing or encouraged by the organization of their lives and can only make up for them with a small amount as they become accustomed around us every week during this difficult time period when there is no longer any concern at all regarding what happens between these two countries now that everyone seems ready-made (not just an admin but also student who has been so far). This knowledge on many occasions might change if you have tried other places like some high school where people may actually take advantage over others because it’s very hard!\n\n",
+      "prompt_tokens": 14,
+      "generated_tokens": 121,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.724,
+      "tokens_per_second": 167.16
+    }
+  ]
+}

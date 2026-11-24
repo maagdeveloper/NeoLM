@@ -1,0 +1,15 @@
+{
+  "model": "MaagDeveloper/NeoLM-Small-Base",
+  "benchmark": "perplexity",
+  "dataset": "MaagDeveloper/NeoCorpus",
+  "split": "test",
+  "precision": "torch.float32",
+  "test_tokens": 12094582,
+  "predicted_tokens": 12094581,
+  "test_loss": 3.248842452025122,
+  "perplexity": 25.760503633247044,
+  "bits_per_byte": 0.9711435218673442,
+  "runtime_seconds": 699.2719905140002,
+  "tokens_per_second": 17295.96089085432,
+  "peak_vram_gib": 1.3713064193725586
+}

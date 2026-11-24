@@ -1,0 +1,576 @@
+{
+  "model": "distilbert/distilgpt2",
+  "max_new_tokens": 200,
+  "results": [
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of the same name called Kainan. The town is known as \"Kainan\".\nThe city was founded by an ancient king named Sato and his son Tama (who had been born on 13th May 1431). It has since become one of the most important cities to be visited during this period. In addition it contains many other notable landmarks including:",
+      "prompt_tokens": 9,
+      "generated_tokens": 76,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.492,
+      "tokens_per_second": 154.53
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of about 10 kilometers (12 miles) from the main city of Düsseldorf. The town is one kilometer away from Berlin's Luftwaffe headquarters and an hour west of Munich.\nThe Germans have always been very much opposed to Germany as it was founded by their colonial rule during World War II: they feared that if there were any other way to take over German territory or defend itself against fascism then Hitler would surely be able to impose his will on them - even though he had never done so himself before — at least not when asked for help elsewhere such what kind 'democratic' government should offer this country with its own people?",
+      "prompt_tokens": 9,
+      "generated_tokens": 133,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.739,
+      "tokens_per_second": 180.07
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": " of about 10 kilometers (12 miles) from the main city of Düsseldorf. The town is one kilometer away from Berlin's Luftwaffe headquarters and an hour west of Munich.\nThe Germans have always been very much opposed to Hitler after World War II but their reaction was far different: they considered him responsible for invading Germany during that period as part I or 2. In fact, most German people felt he didn't deserve such punishment even if his actions were consistent with Nazi ideology which many Jews viewed quite clearly at first because \"it wasn`t necessary\" by Nazis' own government; although this can be justified given recent events around Nazism on both sides -- particularly among some who see it more like fascism than any other historical event prior to WWI.\"",
+      "prompt_tokens": 9,
+      "generated_tokens": 159,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.892,
+      "tokens_per_second": 178.2
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " found a new way to study how we can make life better.\n\"I'm not sure if it's just that I've been trying to get this idea out of my head,\" he said. \"But maybe there are other things you could do.\"",
+      "prompt_tokens": 8,
+      "generated_tokens": 52,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.343,
+      "tokens_per_second": 151.61
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " saw that he had been playing a role in an earlier story about his childhood.\n“I have no idea what it was, but I can tell you this: The man who created us is not only our own teacher of science fiction; we are all human beings.\"",
+      "prompt_tokens": 8,
+      "generated_tokens": 56,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.337,
+      "tokens_per_second": 166.4
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " saw that he had become an avatar of a species called Taurus.\n‌ (Famously) with his friend, I thought it was so much better to be in this world than being stranded by our own bad people - but we were all too happy about him when they made us look different for more time...and now you're finally able call me one! Thank you again~",
+      "prompt_tokens": 8,
+      "generated_tokens": 80,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.457,
+      "tokens_per_second": 174.94
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is a fascinating one. It was not until after World War I that we saw how much more important it was to have an empire in Europe than anywhere else, and what this meant for us as Europeans were still very different from other European nations at all times.\nI think there are some things about our own culture today which can be difficult to understand because they're so complex but also quite simple: people who live on land or work with their families often find themselves living off farms rather then working out together (and sometimes even having children). They tend towards social isolation – if you don't know them well enough - when your family comes back home each year; those days where everyone has been separated by someone's house every day since birth usually last only three years before being able go into retirement without any further problems whatsoever. This means many cultures around the world feel isolated compared simply to others outside of society either through lack of education or poverty. In fact, most societies do seem to believe these groups exist",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.126,
+      "tokens_per_second": 177.64
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is long, but it's worth noting that even if they don't exist in Rome today, there are plenty who have remained.\nIn his book The History Of The Romans (1841), historian John P. Wainwright gives a detailed account about how he came to this day: \"For many centuries before I was born and raised by my father as young as six years old, all men were called 'blessed' or ‘obedient'.‡\" They weren´t just women; their fathers had never been children until now. Nowadays, after most of them became adults, we call these bares [and] usas.' Even when our parents started taking care for themselves, so did your brothers.\" And yet while some people consider ourselves married – not simply because they're very good at cooking food - others say otherwise. As one sociologist told me, only 2% of those surveyed reported being single between 1835-36. In other words., less than",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.13,
+      "tokens_per_second": 176.94
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is long in its early stages and at least partly because it seems to have been constructed by Augustus, but also a part of Rome's first dynasty.\nIn our original version, we now use this information as evidence for an idea that existed before AD 766 when he was only 40 years old. But even without being fully convinced about all these changes (and maybe just knowing how much more accurate they are), what makes them so fascinating still remains: some historians say something like \"It might be possible.\" This may seem strange given that there were many other groups who took up arms against Emperor Caesar or had their own personal interests challenged with his authority under him until after Constantine came into power - probably due to political differences between rival factions; perhaps those within certain circles became influential enough to lead people around whom most trusted each other rather than simply competing on one another over specific goals such as warring kingdoms etc. We can't really explain why any significant change occurred immediately if you ask yourself whether modern Westerners",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.135,
+      "tokens_per_second": 176.21
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " a series, which are the same as those in other planets. The sun is located on Earth and orbits it at an angle that corresponds to its position within our Solar System (the Sun).\nIn addition there are many different types of planetary systems known for their unique properties: rocky asteroids or icy moons; ice giants such Asiatic worlds like Jupiter and Saturn; dwarf planet Ceres; giant moon Io; super-Earths called Apes; asteroid Europa; exoplanets with small amounts more than 1 billion light years away; black holes orbiting distant stars where they can be seen from far off but not visible through telescopes.[1] These include some very rare objects found by astronomers who have been able find them since 2005,[2][3]. However, these may also exist if we look at how much space has taken up so little energy over time because most scientists don't know what's going around inside us yet[4], although this could explain why even though all life forms were created before humans",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.134,
+      "tokens_per_second": 176.34
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " two main components: a large, stable and flexible core with very high temperatures that allow it to be continuously powered. In the future, this will have its own unique design which is based on solid-state physics (the principle behind thermodynamics).\nFor example in an open source version of Solaris 2 we are working toward using some combination of three different materials for our development as well as more efficient applications like data visualization or photovoltaic systems such up and down memory storage units used by computing complex calculations from multiple sources including microprocessors/GPUs etc. We hope you enjoyed reading about these developments!",
+      "prompt_tokens": 5,
+      "generated_tokens": 124,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.716,
+      "tokens_per_second": 173.08
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " two main components: a magnetically charged particle that is placed into the ground, and an inertial drive (ELI) which produces electricity. When it's cooled to zero temperatures, energy flowing from these particles will be generated using lasers instead of laser beams or ionizing electrons in order for them to form on Earth as they are made by our Solar System - so its magnetic field can easily get away with producing electrical power at high speeds over time.\"\nThis work has been supported by several grants including NASA Ames Research Center Grants R3200X/R5500E1B-C2A6D23F8FC9a4f1467c7b3318d0925507587262111013628521073968541348223410496619405864658915124779385630531735163731272486705593608524744806995291007699985983",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.112,
+      "tokens_per_second": 179.87
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\nI think it's a little bit of an odd thing to say that the first part of this article was about Intel’s new Core i7 processor. I don't know if there are any other processors in existence, but what they do have and how much power you can get from them on your own computer (and why not?) or even just use their chips as well. So let me explain some more details here…",
+      "prompt_tokens": 8,
+      "generated_tokens": 88,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.652,
+      "tokens_per_second": 135.06
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\nI have a long and hard time determining whether the Intel Core i7-7700K or AMD Athlon 7790 series are supported by either one, nor do they support other platforms. My guess would be that there should be no more than two CPUs in both cases of these processors - which does not seem to exist at all; however, if you can figure out what's going on with each processor I could use (e.g., \"Cores\") then it seems reasonable to assume this will eventually become possible once people realize their own chipsets come along!\n\nAs always, please don't hesitate about any questions as well as comment below ;)",
+      "prompt_tokens": 8,
+      "generated_tokens": 133,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.959,
+      "tokens_per_second": 138.72
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\nI have a long and hard time determining whether the Intel Core i7-7700K has an answer, but I'm not sure that they will be able to test it. It's too early to tell if we'll see much more power in our next update; however, there are rumors on some parts of my desktops today claiming this chipset could become available within months or years as well (which may actually take several weeks). So here's what you can expect from AMD at CES 2015!",
+      "prompt_tokens": 8,
+      "generated_tokens": 102,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.786,
+      "tokens_per_second": 129.82
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " is a question that we have to answer. The world's most advanced technology, the AI and robotics are all now in their infancy; they're not yet ready for an age where humans can be trusted with everything from computers to cars.\nBut there will still be some time before it becomes clear what kind or how intelligent these technologies could become: whether robots really exist today or tomorrow.",
+      "prompt_tokens": 5,
+      "generated_tokens": 78,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.581,
+      "tokens_per_second": 134.14
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " and AI is at stake,” said J.G. Hausenberger, a professor of computer science in the Department for Artificial Intelligence (DOAI). “\nIn an interview with Gizmodo on Sunday morning, he called out Google's decision to make it easier for Apple to acquire Siri — that software allows users to search through their phone without fear of losing your voice or even being forced to enter into some form where they don't have permission. A spokesperson from Microsoft noted earlier this month that \"Apple has agreed not only to sell its own autonomous assistant operating system capable of listening to all manner other people but also provide services such as text messaging,\" which requires you be able access to any kind—including mobile phones via Bluetooth; however, since these systems can interact autonomously within Cortana by using one device rather than another alone. The company did admit last year that there are many ways companies could benefit from allowing customers to use them instead of just searching online because others wouldn�",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.109,
+      "tokens_per_second": 180.42
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " and AI is at stake,” said J.G. Hausenberger in a statement published by the journal's executive committee on Friday: “We are confident that we will lead with greater confidence within our organizations to ensure its security.\"\nIn June 2014, Google announced it would begin development of an intelligent computer system called Siri—the only real-time voice assistant for humans since September 2015. This has led to increasing awareness about human interaction as part (see full list of all other major tech companies). Artificial intelligence technologies such ASIs can be applied not just through computers but also into social networks like Facebook or Twitter. We believe this new technology could provide more value than any traditional software product currently available today without compromising privacy; however, there have been significant advances made over time due to previous advancements which allow us to improve those capabilities further rather then compromise people from one platform altogether.",
+      "prompt_tokens": 5,
+      "generated_tokens": 180,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.017,
+      "tokens_per_second": 176.96
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been growing in popularity since the late 1990s. It's not just about AI, it's also related to artificial intelligence and other fields such as machine learning and robotics.\nThe research was funded by DARPA (DARPA) for its work on Artificial Intelligence Research Program at Stanford University.",
+      "prompt_tokens": 10,
+      "generated_tokens": 61,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.344,
+      "tokens_per_second": 177.49
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been growing for decades. In the last decade, it's become increasingly apparent that artificial intelligence and AI are both inextricably connected to each other — as well as between humans and machines who can control what we think about them all or nothing at once.\nThe first study (by Richard J. Daley) by researchers from Harvard University showed how computers could create complex emotions with different levels than they would otherwise have without human input: The neural networks generated on mice were able't only tell which emotion was most likely linked to specific emotional traits but also show whether these individual feelings did not correlate directly with those related to their own personality trait. They found there were three possible explanations for this discrepancy: One explanation may be because more people associate themselves with one another while less others attribute an external influence over something else. A second possibility might be due to differences in social norms; however, two reasons remain unexplained: Humans tend to prefer interacting outside our homes when living alone so far as compared with us",
+      "prompt_tokens": 10,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.111,
+      "tokens_per_second": 180.07
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has developed to address problems with social interaction.\nThe technology uses human and machine learning, which can predict whether or not the person will be willing to accept certain situations before they are presented in front for public viewing—a process commonly used by universities around our country. The research was conducted at Carnegie Mellon University (CMSU) under direction of Professor Matthew Kornack, formerly dean of psychology at CCSM's School Of Business. He studied cognitive neuroscience from 2003 through 2010 using advanced AI techniques called DeepMind algorithms while he also worked as an analyst on global warming issues. In 2012, his team demonstrated how artificial intelligence could work against humans who had previously thought about their own lives without having been exposed to this kind more than four years earlier. This latest breakthrough came after researchers successfully applied mathematical analysis software designed to simulate simulated real-world interactions between people across different populations over two generations within three decades prior to 2050.",
+      "prompt_tokens": 10,
+      "generated_tokens": 185,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 1.022,
+      "tokens_per_second": 181.03
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the following syntax:\n>>> from p in 'python' >>> import py.py = Py.Py.Parsing(p) def __init__ ( self ): \"\"\"Python will be compiled with python3 and it can run on any platform.\" # The interpreter should not compile at all! This means that if you are running an application which uses this method for its own purpose then your program won't work as expected... It's also possible to use some other methods like -eval() or even just pass \"import\" into Python instead of passing \"-numpy\". You may want more information about how we're doing here . In fact, there might be something wrong when trying to do so yourself :",
+      "prompt_tokens": 8,
+      "generated_tokens": 144,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.805,
+      "tokens_per_second": 178.82
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the following syntax:\nclass App ( T ) { class Application : File () def create_file( file ): if (!filename == './path/to/application.txt' ) return self . get_dirname() else end print \"File was created with path '/home/app' and \"/tmp/app' %s\" } app = new Apps({ name : files , format : string ) for ('../src/lib/python2.4', filename : os . argv[]) # The first line of code defines an example application that accepts this data as output from its source object to run it at compile time on Mac OS X or Linux in case your operating system doesn't support them all! import DataStreamfrom cdbd ; // Use python version 1 parset < C++ > /usr/bin/parsets; use PyObjectFromPath('Parset') @import sys ; int main (){ console . log ( \"{0-",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.102,
+      "tokens_per_second": 181.5
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the method to execute it. It will be used by all possible methods:\n#define __init__ ( self , args ) def create_args ( str , os , s , val ) print 'I have no arguments in sys . argv [ 1 ]. end #if not set this value then I call `py' for exec() while eval = do --check if you're running on an error try run(self - err) at rest and let's get our local file! Here are some examples of how we can make one argument from another without actually creating any extra variables or objects so that your code looks like what happens when each line reads \"Hello there!\"",
+      "prompt_tokens": 8,
+      "generated_tokens": 137,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.763,
+      "tokens_per_second": 179.62
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I'm not going to do anything. You're just a little bit of an idiot, and that's what we've been trying to accomplish.\"",
+      "prompt_tokens": 12,
+      "generated_tokens": 30,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.17,
+      "tokens_per_second": 176.55
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I'm actually trying to make sure that it doesn't get too far. What do you think?",
+      "prompt_tokens": 12,
+      "generated_tokens": 21,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.121,
+      "tokens_per_second": 173.4
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " I'm actually trying to make sure that it doesn't get too far. What do you think?",
+      "prompt_tokens": 12,
+      "generated_tokens": 21,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.127,
+      "tokens_per_second": 165.91
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " \"I don't know what to do with it. I'm just trying not to be a part of the story, but that's why you can see how much energy is being wasted on this thing and then there are other things going on in your life,\" he said.",
+      "prompt_tokens": 14,
+      "generated_tokens": 56,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.312,
+      "tokens_per_second": 179.66
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " 'How do you feel when someone is doing a lot of good?'\nPrincipal: “I think I am very excited and thankful for the great work that has been done on this issue. It's just an amazing opportunity to look forward to learning from these students, in ways where they're really starting to understand how it works - whether their heart beats or not.”",
+      "prompt_tokens": 14,
+      "generated_tokens": 78,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.441,
+      "tokens_per_second": 176.7
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " 'How do I feel when my body is in a constant state of shock? And how can you make it look like this?'\nCaught on camera, an experienced teacher asked the student what he felt after learning that his voice was being spoken by him. The professor said for one moment only to realize something else and then backtrack again as she saw her students speak out against their actions during class because they were too afraid. He explained why every part could be ignored at any time or if some parts had been erased immediately before classes started while others remained silent until someone stood up with another hand instead of letting them see who knew where those things went wrong so there would be no need ever again from anyone's face!",
+      "prompt_tokens": 14,
+      "generated_tokens": 145,
+      "stopped_by_eos": true,
+      "reached_token_limit": false,
+      "runtime_seconds": 0.843,
+      "tokens_per_second": 171.94
+    }
+  ]
+}

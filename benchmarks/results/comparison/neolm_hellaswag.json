@@ -1,0 +1,12 @@
+{
+  "model": "MaagDeveloper/NeoLM-Small-Base",
+  "benchmark": "hellaswag",
+  "evaluation": "custom_zero_shot",
+  "examples": 200,
+  "seed": 1337,
+  "raw_accuracy": 0.315,
+  "normalized_accuracy": 0.28,
+  "raw_correct": 63,
+  "normalized_correct": 56,
+  "runtime_seconds": 6.43
+}

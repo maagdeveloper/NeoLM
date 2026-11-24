@@ -1,0 +1,576 @@
+{
+  "model": "erwanf/gpt2-mini",
+  "max_new_tokens": 200,
+  "results": [
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": ", the villagers were given a choice of their own. The villagers had to choose between one and three different choices: one for each of them; the other for each of them.\n\nThe villagers were given a choice of their own. The villagers were given a choice of their own. The villagers were given a choice of their own. The villagers were given a choice of their own.\n\nIn the end, the villagers decided that they should not be allowed to leave the village. They chose their own.\n\nThe villagers were given a choice of their own. The villagers were given a choice of their own. The villagers were given a choice of their own.\n\nThe villagers were given a choice of their own. The villagers were given a choice of their own. The villagers were given a choice of their own.\n\nThe villagers were given a choice of their own. The villagers were given a choice of their own. The villagers were given a choice of their own. The",
+      "prompt_tokens": 9,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.902,
+      "tokens_per_second": 221.82
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": ", the villagers took over the land and settled on it.\n\nAfter that, they set up a camp called the Rodeo (now known as Rodeo) near the town of Nagaa. They were forced to leave the area until about 8 p.m. when their camp was finally abandoned.\n\nThe Rodeo's camp is located at the top edge of Mount Sinbad. On the island the Rodeo is a large mountain. It lies on a long hillside with many other hills and shrubs. The only people there are also those who would have loved to see it.\n\nRodeo's place was completely destroyed by the fire and its inhabitants were forced to flee the forest for shelter. However, the Rodeo was taken over by the local government and managed to escape the area quickly after the first day.\n\nOn the island the Rodeo is surrounded by trees. They have been planted in the hills.\n\nIn",
+      "prompt_tokens": 9,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.895,
+      "tokens_per_second": 223.36
+    },
+    {
+      "category": "story",
+      "prompt": "Once upon a time, in a small village",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1337,
+      "generated_text": ", the villagers took over a town in the forest for the first time in almost three decades. A few years later, on December 22, 1947, an estimated 10,000 people died from disease-causing brain damage during their last visit to Waukesha.\n\nThe most infamous of the plague outbreaks was the late 19th century Borneo. This is how the Spanish came about when the Spanish were coming about as they would like it and are being spread across Asia by the rainforests of North America. When the rains turned bad in September 1947, the region became known as the \"Dampagne Valley.\" But this year, some local farmers and merchants started giving away land and water to the village because of their unique taste, but only after finding out that there were many more still left. That's what the area has been called, and it's really not just one city or two, but thousands of miles from the valley that runs along the shore.\n\n\"",
+      "prompt_tokens": 9,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.905,
+      "tokens_per_second": 220.91
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " was able to make a small impression on the audience.\n\n\"I'm very excited about it,\" he said, \"because I've been there for so long.\"\n\nHe added that he had no idea what the new movie would be like if it were made in Japan.\n\n\"It's not just me,\" he said. \"There are people who have seen it but they don't know how to tell you. It's just me.\"\n\nThe film is set in Tokyo, with an opening weekend planned for July 2. The film will be released on September 19.\n\nThe film will feature a Japanese-language version of the film, which stars Japanese actor Toshio Morihei Uchida as a man who has become one of Japan's most popular characters.\n\nUchida, who plays the character in the film, was originally cast by the Japanese government after being elected president in 2011. He was replaced by the director of the film, Akihito",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.93,
+      "tokens_per_second": 215.07
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " saw that the child had been placed in a room where the girl was sitting. The boy said she wasn't sure what to do, but he was so excited by the sight of her, and she saw it in the bedroom.\n\n\"She looked at me and said, 'You're going to be here for five years,'\" he recalls. \"I was like, 'This is not this world.' She just didn't see that.\"\n\nThey were standing next to each other in front of the camera while the child was sitting on the couch. A woman who was standing next to the boy's face was standing beside him with his hand firmly clasped in his shoulder.\n\n\"He said, 'Yeah, you know how many times I've seen these kids go out and get their hands on my arms,' and he replied, 'I'm a little bit nervous about it. You should have kept your arm around for a few seconds. I told my mother I'll give her",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.133,
+      "tokens_per_second": 176.6
+    },
+    {
+      "category": "story",
+      "prompt": "The young scientist opened the mysterious box and",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1338,
+      "generated_text": " saw that the child had been placed in a room where the girl was sitting. The boy said she wasn't sure what to do, but he was so confident, and at one point, the girl called police. He thought it was safe for her to see him. She didn't believe him, but they were able to arrest him with a knife. The youngster started screaming. Then the child began to scream. It began as if she had fallen asleep.\"\n\nI asked my mum, who still has an open mind and can't help but wonder if there was any more to this story than when she became trapped inside the house.\"\n\nI got up in the back of the van and went into the home of a man who kept asking her out for food before turning away from the outside looking for her son. \"I knew that I had nothing to eat here and I couldn't get up here. I just wanted to know why. If you want to go back to the kitchen,",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.199,
+      "tokens_per_second": 166.87
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is a story of the Roman Empire, and its influence on the people has been greatly exaggerated. The Roman Empire was founded by Alexander the Great, who had been an important part of the empire for centuries before his death in 1812.\n\nIn the early 19th century, the Roman Empire was divided into two groups: the Roman Empire (the Roman Empire) and the Roman Empire. The Roman Empire was divided into three groups: the Roman Empire (the Roman Empire), the Roman Empire (the Roman Empire), the Roman Empire (the Roman Empire), and the Roman Empire (the Roman Empire). The Roman Empire was divided into two groups: the Roman Empire (the Roman Empire), the Roman Empire (the Roman Empire), and the Roman Empire (the Roman Empire). The Roman Empire was divided into two groups: the Roman Empire (the Roman Empire), the Roman Empire (the Roman Empire), and the Roman Empire (the Roman Empire).\n\nThe Roman Empire was divided into two groups: the",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.066,
+      "tokens_per_second": 187.58
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is also in dispute. It was at this time that the Romans invaded their cities, and so it had been a long-standing battle for a thousand years before the Roman army arrived at Rome.[1] The ancient Greeks were not alone; in the early 19th century they were much more likely to be conquered by war than by war, but these were only after the Roman armies came to power.\n\nThe Roman Empire became one of the world's most important kingdoms—a nation founded on wealth and prosperity. The Romans believed that there must always be one state at all, and so they began to form alliances with each other over many centuries. This has led to an intense rivalry between the two empires. The Romans did not seem to have any interest in breaking up conflicts until the Romanians came to power. They formed a coalition against each other when Rome defeated its rivalries. The Roman army was largely composed of cavalry, which made the Romans very close to each other. In the first three",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.916,
+      "tokens_per_second": 218.35
+    },
+    {
+      "category": "factual",
+      "prompt": "The history of the Roman Empire",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1339,
+      "generated_text": " is also in dispute. It was at this time that they wanted to see what they did, even after the war. The emperor had been a son and a daughter and died many times before he joined the Roman army; so the Roman Empire itself became the most dominant group in all of its glory. But no one could rule a Roman empire with no military power in sight; they were led by a ruler who knew only his own personality and the people of the city.\n\nIt was very difficult for the Roman Empire to accept this reality and even when it began to change, the empire took on a wider and more varied part of the Roman Empire than anyone ever thought possible. And the Romans made use of their influence in order to try to win their battles against another enemy, but ultimately this became a major problem. This caused the empire to start losing control over its population as well. Even the empire's leaders remained in a state of perpetual decline and never fully accepted the role of the Roman Empire",
+      "prompt_tokens": 6,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.97,
+      "tokens_per_second": 206.19
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " a single-layer layer of silicon that is surrounded by an array of layers, each with its own unique properties. The layer is composed of two elements: the solar cell and the solar cell.\n\nThe solar cells are divided into four parts: the solar cell and the solar cell. Each part contains three different types of solar cells, each with its own unique properties.\n\nEach of these components has a unique property called “Solar Cells” which allows the solar cell to be integrated into the solar cell.\n\nThis property is used for the solar cell in the solar cell. It is also used to create the solar cell in the solar cell.\n\nIn addition to the solar cell, the solar cell can be made up of two layers of silicon that have been developed using the solar cell.\n\nThe solar cell is a semiconductor, a semiconductor, or semiconducting device. It is a semiconductor, a semiconductor, and a semiconductor.\n",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.908,
+      "tokens_per_second": 220.15
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " two main components: a grid that is the size of an atom and a solid-state grid. The energy storage component can be stacked with hydrogen to provide a liquid atmosphere, which is the primary fuel source for this system.\n\nThis means that the water supply will have to go through all the necessary electrolytes needed to meet the requirement. This is also very important because it gives the water a much more efficient power source than it has been previously, and it may be the cheapest option for a lot of people who are in their 50s or 60s.\n\nWhat do you think about these materials? Do they contain organic compounds, such as organic matter, that might help them survive the sun's rays? Let us know your thoughts in the comments below!\n\nImage Credit: Alamy\n\nImages courtesy of Alamy\n\nSafdar, Alamy\n\nImage credit: Alamy\n\nSource: Alamy\n\nAdvertisementsForget about the old school kids —",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.884,
+      "tokens_per_second": 226.21
+    },
+    {
+      "category": "factual",
+      "prompt": "The solar system consists of",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1340,
+      "generated_text": " two main components: a grid containing the solar panels, and an inverter that is supported by four inverters. In other words, one inverter will also be connected to a solar array through the photovoltaic (PV) system, which has been developed in part by the UAVs from France.\n\nThis was followed in 2011 by the use of solar modules. In January 2011, a solar module called the UAVs, came under attack against the ILC, according to a report by the International Energy Agency.[6] The ILC was designed specifically for the UAVs' ability to provide direct sunlight via solar arrays. The UAVs are designed to operate around a range of wavelengths ranging from about 300 km (320 miles) per second to 1,000 kilometers (1,000 mi), making it ideal for remote sensing, where there is a lot of water at that depth. The UAVs can run in multiple directions from one direction to another using",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.901,
+      "tokens_per_second": 221.94
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\n\nKU: It’s a lot of work. The CPU is the same, but it’s not the same as the CPU. I don’t think that’s true. But it’s a very different thing to say. You can’t do anything with CPU. You have to be able to do something with CPU. So you have to be able to do what you want to do.\n\nQ: Is there any way you could use CPU?\n\nKU: No. There are two things that are going on here. One is that we’re talking about CPU. We’ve got a number of different CPUs and we’ve got a number of different CPUs. And so we’ve got a number of different CPUs and we’ve got a number of different CPUs. So we’ve got a number of different CPUs and we’ve got a number of different CPUs",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.907,
+      "tokens_per_second": 220.39
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\n\nKUEL: There are some limitations to the way we handle hardware. If you look at Intel, it’s just a really fast processor and there’s no one else in this business that can handle it. In general, it does not have a problem with processors because they don’t perform as well as they do on chipsets. I think we all want the same thing that the CPU has. So, what we do is, if we can make a chip that performs faster than the CPU and not use it, then we will try our best to keep up with the performance of the CPU. We are very much looking forward to using the GPU technology to achieve the same results.\n\nAnd then we can create more parallelized CPUs. This allows us to design our own applications. That means we can build bigger systems like RISC or AMD, but we also have many other things that we could do and so we need to be able to implement different",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.897,
+      "tokens_per_second": 222.89
+    },
+    {
+      "category": "technical",
+      "prompt": "Question: What is CPU stand for?",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1341,
+      "generated_text": "\n\nKUEL: There are some limitations to the way we handle hardware in our own systems. But, it’s just a matter of what it looks like. So, how do you handle the CPU? How does CPU stand for this? Do I want to put a specific name on my CPU and go back to work and have it serve as an example?\n\nThe problem here is that CPU stands is very complicated because it has a kind of low level overhead when it comes to graphics cards. We don’t really need to deal with that at the moment. In terms of graphics cards, CPUs aren’t there. At the same time, what’s happening is that it becomes more complicated. For instance, if you can have two processors on your system, one will die and another will die and then some sort of processor dies. So, all these GPUs were different, but you have to do something else. For example, AMD had their GPU",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.901,
+      "tokens_per_second": 221.87
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " is uncertain. The United States has a long history of using technology to develop and use artificial intelligence, but the U.S. government has been developing artificial intelligence for decades.\n\nIn the past decade, the U.S. has used artificial intelligence to develop artificial intelligence, but it has not developed any new technologies that could be used in the future. In recent years, the U.S. has used artificial intelligence to develop artificial intelligence, but the U.S. government has not developed any new technologies that could be used in the future.\n\n“We are seeing a lot more people coming into our lives than we have ever seen before,” said David S. Cohen, an assistant professor at the University of California, Berkeley who studies artificial intelligence. “It’s very hard to imagine how much you would want to spend on your own time with someone like you.”\n\nCohen added: “I think there is a big difference between",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.913,
+      "tokens_per_second": 219.11
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " and AI is at stake,” said J.G. Hoenig, senior researcher at the Center for Artificial Intelligence Research in New York City. “In a new paradigm of AI that we are approaching with an open mind, which could lead to better AI technologies that can make intelligent machines more complex.”\n\nAs the company prepares to launch its next iteration of artificial intelligence, it will also be adding some features that allow it to identify human beings. A list of all known AI projects includes:\n\n1) AI technology\n\n2) AI software (or AI), or AI\n\n3) AI hardware\n\n4) AI software\n\n5) AI software\n\n6) AI software\n\n7) AI software\n\n8) AI software\n\n9) AI software\n\n10) AI software\n\n11) AI software\n\n12) AI software\n\n13) AI software\n\n14) AI software\n\n15) AI software",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.919,
+      "tokens_per_second": 217.55
+    },
+    {
+      "category": "technical",
+      "prompt": "The future of artificial intelligence",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1342,
+      "generated_text": " and AI is at its peak, with the number of applications on the market currently being developed and available for general use in the real world.\n\nA new report out today by Business Insider reveals that there are over 150 new and existing Artificial Intelligence products out there and more than 1 billion globally. The report adds: \"This is a significant step forward towards solving human problems such as cancer, Alzheimer's disease and other illnesses.\"\n\nWhile some scientists have been sceptical about the role of artificial intelligence in our society – particularly at the expense of technology and human development - others also worry that we could be facing challenges in an era when our machines will become much more powerful and more complex. We believe it has an evolutionary advantage over human-caused technologies in terms of human-to-human capabilities and potential.\n\n\"We have seen advances in machine learning (and artificial intelligence) in how to use robots and robotics,\" said Dr Gertsley Fucke, lead author of a",
+      "prompt_tokens": 5,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.21,
+      "tokens_per_second": 165.3
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " has been used to create artificial intelligence.\n\nThe technology, which was developed by the University of California at Berkeley and the University of Texas at Austin in the late 1990s, is being used for research purposes in fields like biology, chemistry, engineering, and mathematics.\n\nIn addition to its current use as a lab, the company also plans to develop artificial intelligence products for other companies, including Google's AI platform, which will be used in the future to provide high-level information about human behavior.\n\n\"We are excited to have an opportunity to explore this new frontier,\" said David H. Dyer, vice president of the National Institute on Artificial Intelligence (NIE) and director of the Department of Defense's Office of Science and Technology Policy. \"This is exciting news because it means we can't wait until there's more data available.\"\n\nThe company has already begun developing artificial intelligence products for other companies, including Google, Facebook, Twitter, LinkedIn, and others. The",
+      "prompt_tokens": 10,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.19,
+      "tokens_per_second": 168.01
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " could be applied to all fields. And it has been developed by the human race, with its various components, which can also be used as an object in human evolution and then use it to build new skills for training.\n\n\"Our aim is to provide these applications that are not designed to work in artificial environments.\"\n\nIt will also help scientists to understand how intelligent systems might be used for many of the tasks they would normally perform. The researchers say they have seen a \"more sophisticated design technique\" using artificial intelligence, such as a large-scale machine learning system.\n\nThe team's approach was based on a three-dimensional modeling technique known as machine learning.\n\nIn addition, they made their discovery possible by analyzing data from different disciplines. They wanted to know what each of those disciplines had done - but what they were doing wasn't well understood until now.\n\nThey found that this kind of research showed that human intelligence could be applied to every discipline, including a lot",
+      "prompt_tokens": 10,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 1.056,
+      "tokens_per_second": 189.35
+    },
+    {
+      "category": "technical",
+      "prompt": "Artificial intelligence is a field of computer science that",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1343,
+      "generated_text": " makes sense to researchers and engineers. And in the process, there are several major technical hurdles to overcome: the fact that artificial intelligence will be difficult to understand and could lead to some kind of breakthrough when it comes to computer technology; and the fact that our brains aren’t just designed for computing; they’re actually built for artificial intelligence because of how we perceive them; and this is how computers make us think about them.\n\nThe idea of artificial intelligence is also something new. It has been developed by scientists at MIT to help students to create artificial intelligence. The idea of artificial intelligence was first proposed back in 1692, but it came to light in the early 1900s as part of an attempt to better understanding the world around humans. The team wanted to create artificial intelligence with machines that could learn from human beings.\n\nFor more information on the future of artificial intelligence, visit http://www.biomedacenterprises.org/en-us-nasa-",
+      "prompt_tokens": 10,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.907,
+      "tokens_per_second": 220.46
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the following command:\n\ndef __init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self) def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main__\") def __init__(self): return self.__init__(self, \"__main",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.898,
+      "tokens_per_second": 222.76
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the Python_C# keyword:\n\nimport Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# #",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.902,
+      "tokens_per_second": 221.72
+    },
+    {
+      "category": "technical",
+      "prompt": "In Python, a function is defined using",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1344,
+      "generated_text": " the Python_C# keyword:\n\nimport Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# # Python_C# #",
+      "prompt_tokens": 8,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.904,
+      "tokens_per_second": 221.17
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " \"I'm not going to be the last person in this room.\"\n\nThe first time I saw Bob, he was so excited. He had a great feeling that it would be his last day of life.\n\n\"He's always been here for me,\" said Bob. \"It's hard to get out there and do something good. But I have no idea what it is. It's just like my job to be here.\"\n\nBob: \"I think I can do something better than that.\"\n\nBob: \"I don't know if it will work.\"\n\nBob: \"You're right. You've got to go out there and do something good.\"\n\nBob: \"I'm gonna be here.\"\n\nBob: \"I'm gonna be here.\"\n\nBob: \"I'll be here.\"\n\nBob: \"I'm gonna be here.\"\n\nBob: \"I'm gonna be here.\"\n\nBob: \"I'm",
+      "prompt_tokens": 12,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.921,
+      "tokens_per_second": 217.19
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " \"You know what I'm thinking.\"\n\nBarewell: \"I'm going to do it. It's my fault.\"\n\nBob: \"This is not me, but I have a plan.\"\n\nBarewell: \"If you want to stay in the country, I can't do anything else. If you don't want to leave, then I'll go to a place where I can go and be able to live with this life. I've got this plan.\"\n\nBarewell: \"I hope we all die.\"\n\nBob: \"The thing about it is that I am a little bit more concerned with what happens in life when I do something like this. My mother always said that it was the wrong decision.\"\n\nBarewell: \"There were times when people thought I had better deal with things than myself.\"\n\nBarewell: \"You're a fool.\"\n\nBob: \"That's your plan.\"\n\n",
+      "prompt_tokens": 12,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.936,
+      "tokens_per_second": 213.66
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Alice: \"What are you doing tomorrow?\"\nBob:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1345,
+      "generated_text": " \"You know what I'm done.\"\n\nBarewell: \"I'm gonna work with you. We'll do some things together.\"\n\nBob: \"I'm gonna take it for a second.\"\n\nBarewell: \"If you want to stay, I'll be here in two weeks, so I won't even have to worry about any more. You're going to give me another chance.\"\n\nBarewell: \"It's gonna be fun, and I'm gonna try to do the right thing.\"\n\nBob: \"So we can have a little bit of an hour-long chat before our show? So I'm gonna be there if I can help with that. That's gonna be fun! I'll see.\"\n\nBarewell: \"That was the best time to leave, because we're gonna do some really nice stuff tonight, but they just happen!\"\n\nBarewell: \"Yeah.\"\n\nBob: \"Are",
+      "prompt_tokens": 12,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.973,
+      "tokens_per_second": 205.48
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "conservative",
+      "generation_config": {
+        "temperature": 0.3,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " \"The world is changing. We are moving forward, and we are working to make it happen.\"\n\n\"We are going to be learning how to deal with the world,\" said the student.\n\n\"I think that's a good thing for us as students in this country. It's very important for them to understand what they have to do. They need to know how to deal with the world around them.\"\n\nStudents were asked to describe their experiences of being in the classroom, but they didn't respond.\n\n\"They're not just talking about the world around them,\" said the student.\n\n\"It's really hard to get into these things because you can't see them from anywhere else.\"\n\nStudents were asked to explain why they felt like they had been taught something so wrong.\n\n\"You don't want to be able to tell your story or tell your stories,\" said the student.\n\n\"That's all I'm asking for,\" said",
+      "prompt_tokens": 14,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.887,
+      "tokens_per_second": 225.55
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "balanced",
+      "generation_config": {
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " \"The fact that a person can move around in the world as long as they are not afraid to move is amazing. It's not the first time you've seen this type of thing happen, but it's just an illusion.\"\n\nStudents at the University of Florida have been trying to find and document what happened to their friends over the weekend and to teach them how to use their phones during class.\n\n\"In order to do these things, I want to try and make sure everyone knows that you're OK with your actions,\" said student Danielle Schulz from the school. \"It takes you five minutes to think, 'What kind of person did he know?' We all know this, and we all know it's just a matter of when.\"\n\nShe added: \"I would never be able to talk to anyone who was going through the same situation if someone else had known anything like this before, because of the way people were getting together. You don't have to take a",
+      "prompt_tokens": 14,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.934,
+      "tokens_per_second": 214.03
+    },
+    {
+      "category": "dialogue",
+      "prompt": "Teacher: \"Today we will learn about gravity.\"\nStudent:",
+      "config_name": "creative",
+      "generation_config": {
+        "temperature": 0.8,
+        "top_k": 50,
+        "top_p": 0.9,
+        "repetition_penalty": 1.15
+      },
+      "seed": 1346,
+      "generated_text": " \"How the universe works now is a challenge, it's a matter of life. It has been for so long...I hope that the world's eyes will see these things on the surface and we can do it better.\"\n\nStudent: \"When I was in college, I knew something was coming from the ground: The Earth. It looked like we were going to have an earthquake but we had no idea what the thing was; we just couldn't understand what the thing was because we thought they were trying to find out what would happen if we made our way down a path. We did everything right - that was always a question, you know?\"\n\nStudent: \"It took me awhile to get this far. What happened? What is your final answer? What are the factors? How are you feeling and how do you feel as a student? Are you feeling well-oiled? Are there any real solutions?\"\n\nStudent: \"What's your next step? What are",
+      "prompt_tokens": 14,
+      "generated_tokens": 200,
+      "stopped_by_eos": false,
+      "reached_token_limit": true,
+      "runtime_seconds": 0.907,
+      "tokens_per_second": 220.61
+    }
+  ]
+}

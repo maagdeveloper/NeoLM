@@ -1,0 +1,12 @@
+{
+  "model": "erwanf/gpt2-mini",
+  "benchmark": "hellaswag",
+  "evaluation": "custom_zero_shot",
+  "examples": 200,
+  "seed": 1337,
+  "raw_accuracy": 0.275,
+  "normalized_accuracy": 0.27,
+  "raw_correct": 55,
+  "normalized_correct": 54,
+  "runtime_seconds": 6.66
+}

@@ -1,0 +1,12 @@
+{
+  "model": "EleutherAI/pythia-70m",
+  "benchmark": "hellaswag",
+  "evaluation": "custom_zero_shot",
+  "examples": 200,
+  "seed": 1337,
+  "raw_accuracy": 0.29,
+  "normalized_accuracy": 0.27,
+  "raw_correct": 58,
+  "normalized_correct": 54,
+  "runtime_seconds": 7.93
+}
