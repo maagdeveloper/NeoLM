@@ -9,7 +9,7 @@ The released dataset is available at [MaagDeveloper/NeoCorpus](https://huggingfa
 | Notebook | Description |
 |---|---|
 | [00_prepare_corpus.ipynb](00_prepare_corpus.ipynb) | Collect, filter, deduplicate, and prepare the foundation corpus. |
-| [01_publish_corpus (Optional).ipynb](01_publish_corpus%20(Optional).ipynb) | Optionally publish the prepared dataset to Hugging Face. |
+| [01_publish_corpus.ipynb](01_publish_corpus.ipynb) | Optionally publish the prepared dataset to Hugging Face. |
 
 ## Corpus Preparation
 
